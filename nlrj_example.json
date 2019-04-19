@@ -1,0 +1,540 @@
+{
+	"SDK_version": "0.1.0",
+	"music_info": {
+		"music_type": "normal",	/* 一般音乐为 normal，其他依据情况而定，如蜂鸣器音乐 buzzer */
+		"song_id": "60ba3c57e9f589fbfebe7c080c020b59",	/* 一首音乐的唯一 ID，用于区分不同音乐（同一音乐的不同发行版本 ID 不同） */
+		"title": "歌曲名",
+		"artist": "歌手名",
+		"album": "专辑名",
+		"track": "音轨",
+		"year": "年代",
+		"genre": "流派",
+		"language": [	/* 文字/语种 数组 */
+			"Chinese",
+			"Mandarin"
+		],
+		"copyright": "",
+		"url": "作者网页",
+		"version": "发行版本",
+		"composer": "作曲",
+		"lyrics": "作词",
+		"orchestra": "乐队",
+		"original_artist": "原创艺术家",
+		"original_composer": "原作曲",
+		"original_lyrics": "原作词",
+		"ISRC": "",
+		"description": "",
+		"feeling":	/* 乐谱右上角的感情标识 */
+	},
+	"edit_version": 1,	/* 音符歌词文件的版本（修订）号 */
+	"preferred_visual_effect": [	/* 依据音乐风格推荐合适的视觉效果 */
+		""
+	],
+	"parts": [	/* 音乐的分段信息，用于区分节拍、速度 */
+		{
+			"bpm": 68.000,
+			"bpm-end": -1,	/* 渐快、渐慢的终点速度 */
+			"note_for_beat": 4,
+			"beats_in_measure": 4,
+			"start_time": 0.000,
+			"tick": 0	/* 默认 0，按节拍计算音符位置。遇到渐变速度部分时可考虑使用 1，按实际秒数计算音符位置 */
+		}
+	],
+	"patterns": [
+		{
+			"info": {
+				"type": "lyric",	/* 歌词为 lyric，旋律为 melody，鼓点为 drumbeat */
+				"description": "歌词",
+				"preferred_visual_effect": "",
+				"preferred_color": "#EE5555",
+				"preferred_weight": 1.0,
+				"instrument": "vocal",	/* 人声通常有 lyric 和歌词，建议 */
+				"instrument-id": -1	/* 预留 MIDI 兼容性 */
+			},
+			"groups": [	/* 音符组，常见的一组音符如一句歌词 */
+				{
+					"group_name": "",
+					"begin": 41,	/* 起始节拍 */
+					"content": "繁星点点",	/* 若 pattern 类型为 melody，则这项仅用于说明 */
+					"notes": [
+						{
+							"key": "繁",
+							"shift": 0,	/* 音高偏移，每 1 为一个半音，仅当 pattern 类型为 notes 时有效 */
+							"length": 1,	/* 整数部分为 note_for_beat 分音符的几分之一，若有延音符，则小数部分加 0.5 */
+							"plets": -1,	/* 多连音，需要时填入连音数，并与 subnotes 共同出现，此时 note 失效，改由 subnotes 生效 */
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,	/* 连音线标识，起点为 -1，终点为 1，否则为 0 或空 */
+								"crescendo": 0,	/* 渐强音标识，同上 */
+								"diminuendo": 0,	/* 渐弱音标识，同上 */
+								"f": 0,	/* 强音标识，有则为 1 */
+								"p": 0,	/* 弱音标识，有则为 1 */
+								"trill": 0,	/* 颤音标识，有则为非 0 */
+								"mordent": "",	/* 波音 */
+								"pre-glide": [],	/* 前滑音，数组内容为音高 key 字符串 */
+								"post-glide": [],
+								"pre-appoggiatura": [],	/* 前倚音，数组内容为音高 key 字符串 */
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "星",
+							"shift": 0,
+							"length": 2,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "点",
+							"shift": 0,
+							"length": 2,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "点",
+							"shift": 0,
+							"length": 1,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						}					
+					]
+				},
+				{
+					"group_name": "",
+					"begin": 45,
+					"content": "往事如烟",
+					"notes": [
+						{
+							"key": "往",
+							"shift": 0,
+							"length": 1,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],	/* 前倚音，数组内容为音高 key 字符串 */
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "事",
+							"shift": 0,
+							"length": 2,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "如",
+							"shift": 0,
+							"length": 2,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "烟",
+							"shift": 0,
+							"length": 1,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						}					
+					]
+				}
+			]
+		},
+		{
+			"info": {
+				"type": "melody",
+				"description": "人声",
+				"preferred_visual_effect": "",
+				"preferred_color": "#EE5555",
+				"preferred_weight": 1.0,
+				"instrument": "vocal",
+				"instrument-id": -1
+			},
+			"groups": [
+				{
+					"group_name": "",
+					"begin": 41,
+					"content": "繁星点点",
+					"notes": [
+						{
+							"key": "G3#",
+							"shift": 0,
+							"length": 4,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": -1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "A3#",
+							"shift": 0,
+							"length": 2.5,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "A3#",
+							"shift": 0,
+							"length": 4,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": -1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "F3",
+							"shift": 0,
+							"length": 4,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "F3",
+							"shift": 0,
+							"length": 2,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": -1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 2.5,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"begin": 45,
+					"content": "往事如烟",
+					"notes": [
+						{
+							"key": "C4",
+							"shift": 0,
+							"length": 2,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": -1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "C4#",
+							"shift": 0,
+							"length": 4,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "C4",
+							"shift": 0,
+							"length": 4,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 4,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": -1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 4,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 2,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": 0,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 1,
+							"plets": -1,
+							"subnotes": [],
+							"decoration": {
+								"beam": -1,
+								"crescendo": 0,
+								"diminuendo": 0,
+								"f": 0,
+								"p": 0,
+								"trill": 0,
+								"mordent": "",
+								"pre-glide": [],
+								"post-glide": [],
+								"pre-appoggiatura": [],
+								"post-appoggiatura": [],
+							}
+						}
+					]
+				}
+			]
+		}
+	],
+	"description": ""
+}
