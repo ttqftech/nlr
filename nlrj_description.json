@@ -1,5 +1,5 @@
 {
-	"SDK_version": "0.1.1",	/* 必须 */
+	"SDK_version": "0.1.2",	/* 必须 */
 	"music_info": {	/* 必须 */
 		"music_type": "normal",	/* 必须，一般音乐为 normal，其他依据情况而定，如蜂鸣器音乐 buzzer */
 		"song_id": "hashhashhashhashhashhashhashhash",	/* 一首音乐的唯一 ID，用于区分不同音乐（同一音乐的不同发行版本 ID 不同） */
@@ -54,6 +54,7 @@
 					"group_name": "",	/* 预留 */
 					"part_id": 0,	/* 必须，指示该 group 在哪个 part 里，用于指示起始节拍 */
 					"begin": 41,	/* 必须，起始节拍 */
+					"shift": 0,	/* group 内音符的整体偏移 */
 					"content": "繁星点点",	/* 若 pattern 类型为 melody，则这项仅用于说明 */
 					"notes": [	/* 必须 */
 						{
@@ -73,7 +74,7 @@
 								"pre-glide": [],	/* 前滑音，数组内容为音高 key */
 								"post-glide": [],
 								"pre-appoggiatura": [],	/* 前倚音，数组内容为音高 key */
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -93,7 +94,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -113,7 +114,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -133,7 +134,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						}					
 					]
@@ -161,7 +162,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -181,7 +182,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -201,7 +202,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -221,7 +222,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						}					
 					]
@@ -262,7 +263,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -282,7 +283,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -302,7 +303,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -322,7 +323,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -342,7 +343,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -362,7 +363,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -382,7 +383,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						}
 					]
@@ -410,7 +411,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -430,7 +431,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -450,7 +451,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -470,7 +471,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -490,7 +491,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -510,7 +511,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						},
 						{
@@ -530,7 +531,7 @@
 								"pre-glide": [],
 								"post-glide": [],
 								"pre-appoggiatura": [],
-								"post-appoggiatura": [],
+								"post-appoggiatura": []
 							}
 						}
 					]
