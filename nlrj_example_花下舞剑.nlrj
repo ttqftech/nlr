@@ -1,0 +1,1699 @@
+{
+	"SDK_version": "0.1.2",
+	"music_info": {
+		"music_type": "buzzer",
+		"song_id": "hashhashhashhashhashhashhashhash",
+		"title": "花下舞剑",
+		"artist": "童可可",
+		"album": "花下舞剑",
+		"language": [
+			"Chinese",
+			"Mandarin"
+		],
+		"composer": "印子月",
+		"lyrics": "印子月"
+	},
+	"edit_version": 2,
+	"parts": [
+		{
+			"bpm": 68.000,
+			"bpm-end": -1,
+			"note_for_beat": 4,
+			"beats_in_measure": 4,
+			"start_time": -35.000,
+			"tick": 0
+		}
+	],
+	"patterns": [
+		{
+			"info": {
+				"type": "melody",
+				"description": "人声",
+				"instrument": "vocal"
+			},
+			"groups": [
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 41,
+					"shift": 12,
+					"content": "繁星点点",
+					"notes": [
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": -2,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "F3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "F3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": -2,
+							"decoration": {
+								"beam": 1
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 45,
+					"shift": 12,
+					"content": "往事如烟",
+					"notes": [
+						{
+							"key": "C4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 1,
+							"decoration": {
+								"beam": -1
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 49,
+					"shift": 12,
+					"content": "从繁华间我追寻到沧海桑田",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 1,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 57,
+					"shift": 12,
+					"content": "这尘世间",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 1,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 60,
+					"shift": 12,
+					"content": "猜不透聚散离别",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 1,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 65,
+					"shift": 12,
+					"content": "命中注定谁覆灭",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C4",
+							"shift": 0,
+							"length": 1.3333,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "C4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 0.4444,
+							"decoration": {
+								"beam": 1
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 73,
+					"shift": 12,
+					"content": "几度冰霜",
+					"notes": [
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": -2,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "F3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "F3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": -2,
+							"decoration": {
+								"beam": 1
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 77,
+					"shift": 12,
+					"content": "昨日难忘",
+					"notes": [
+						{
+							"key": "C4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 1,
+							"decoration": {
+								"beam": -1
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 81,
+					"shift": 12,
+					"content": "逍遥少年亦悲切",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 1,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 89,
+					"shift": 12,
+					"content": "修炼成仙",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 1,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 92,
+					"shift": 12,
+					"content": "逃不过痴痴念念",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 1,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 97,
+					"shift": 12,
+					"content": "你我约定在轮回边缘",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "C4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 0.4444,
+							"decoration": {
+								"beam": 1
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 105,
+					"shift": 12,
+					"content": "仗剑江湖荡诸邪",
+					"notes": [
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#5",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "C5",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 109,
+					"shift": 12,
+					"content": "无酒也疯癫",
+					"notes": [
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C5",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 1,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 113,
+					"shift": 12,
+					"content": "御剑除魔了恩怨",
+					"notes": [
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#5",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "C#5",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 117,
+					"shift": 12,
+					"content": "难了前世缘",
+					"notes": [
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C5",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": -1,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 121,
+					"shift": 12,
+					"content": "花下舞剑",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 8,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 1,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 124,
+					"shift": 12,
+					"content": "我愿伴君千百年",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "C#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": -2,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 128,
+					"shift": 12,
+					"content": "回眸一瞬间霓裳似舞蝶",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "G#3",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "F4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "D#4",
+							"shift": 0,
+							"length": 4,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				},
+				{
+					"group_name": "",
+					"part_id": 0,
+					"begin": 132,
+					"shift": 12,
+					"content": "翩翩",
+					"notes": [
+						{
+							"key": "0",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 0
+							}
+                        },						
+                        {
+							"key": "F4",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": -1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 2,
+							"decoration": {
+								"beam": 1
+							}
+						},
+						{
+							"key": "A#3",
+							"shift": 0,
+							"length": 0.5,
+							"decoration": {
+								"beam": 0
+							}
+						}
+					]
+				}
+			]
+		}
+	],
+	"description": "此文件为《花下舞剑》的部分音符（非官方），仅用于演示 nlrj 格式的规范。详见 https://github.com/ttqftech/nlr/"
+}

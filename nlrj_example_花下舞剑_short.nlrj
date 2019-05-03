@@ -13,7 +13,7 @@
 		"composer": "印子月",
 		"lyrics": "印子月"
 	},
-	"edit_version": 1,
+	"edit_version": 2,
 	"parts": [
 		{
 			"bpm": 68.000,
@@ -161,146 +161,9 @@
 							}
 						}
 					]
-				},
-				{
-					"group_name": "",
-					"part_id": 0,
-					"begin": 49,
-					"shift": 12,
-					"content": "从繁华间我追寻到沧海桑田",
-					"notes": [
-						{
-							"key": "0",
-							"shift": 0,
-							"length": 2,
-							"decoration": {
-								"beam": 0
-							}
-						},
-						{
-							"key": "G#3",
-							"shift": 0,
-							"length": 4,
-							"decoration": {
-								"beam": -1
-							}
-						},
-						{
-							"key": "A#3",
-							"shift": 0,
-							"length": 4,
-							"decoration": {
-								"beam": 1
-							}
-						},
-						{
-							"key": "A#3",
-							"shift": 0,
-							"length": 2,
-							"decoration": {
-								"beam": 0
-							}
-						},
-						{
-							"key": "F3",
-							"shift": 0,
-							"length": 2,
-							"decoration": {
-								"beam": 0
-							}
-						},
-						{
-							"key": "C#4",
-							"shift": 0,
-							"length": 4,
-							"decoration": {
-								"beam": -1
-							}
-						},
-						{
-							"key": "D#4",
-							"shift": 0,
-							"length": 2,
-							"decoration": {
-								"beam": 1
-							}
-						},
-						{
-							"key": "C#4",
-							"shift": 0,
-							"length": 4,
-							"decoration": {
-								"beam": 0
-							}
-						},
-						{
-							"key": "A#3",
-							"shift": 0,
-							"length": 2,
-							"decoration": {
-								"beam": 0
-							}
-						},
-						{
-							"key": "G#3",
-							"shift": 0,
-							"length": 2,
-							"decoration": {
-								"beam": 0
-							}
-						},
-						{
-							"key": "D#4",
-							"shift": 0,
-							"length": 2,
-							"decoration": {
-								"beam": 0
-							}
-						},
-						{
-							"key": "F4",
-							"shift": 0,
-							"length": 2,
-							"decoration": {
-								"beam": 0
-							}
-						},
-						{
-							"key": "G#4",
-							"shift": 0,
-							"length": 2,
-							"decoration": {
-								"beam": 0
-							}
-						},
-						{
-							"key": "F4",
-							"shift": 0,
-							"length": 4,
-							"decoration": {
-								"beam": -1
-							}
-						},
-						{
-							"key": "D#4",
-							"shift": 0,
-							"length": 4,
-							"decoration": {
-								"beam": 1
-							}
-						},
-						{
-							"key": "F4",
-							"shift": 0,
-							"length": 1,
-							"decoration": {
-								"beam": 0
-							}
-						}
-					]
 				}
 			]
 		}
 	],
-	"description": "此文件为《花下舞剑》的部分音符（非官方），仅用于演示 nlrj 格式的规范。详见 https://github.com/ttqf975414890/nlr/"
+	"description": "此文件为《花下舞剑》的部分音符（非官方），仅用于演示 nlrj 格式的规范。详见 https://github.com/ttqftech/nlr/"
 }
